@@ -1,3 +1,5 @@
+# Kandidatnummer: 10041
+
 # PROG2053 eksamen v2020
 * Lag en FORK (eller CLONE) av dette repositoriet og gi meg leserettigheter (aland.a.mendoza@ntnu.no). Det som er i repositoriet på slutten av eksamen teller som din besvarelse.
 * Legg inn kandidatnummeret ditt øverst i readme.md fila.
